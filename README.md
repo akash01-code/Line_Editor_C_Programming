@@ -20,3 +20,9 @@ Ensure you have `gcc` installed on your system.
 1. **Compile the source code:**
    ```bash
    gcc -Wall -Wextra editor.c -o editor
+
+
+   #project-section
+      ## Projects
+Projects
+MarketMate A platform designed to connect students with local businesses for marketing roles. Currently focusing on the UI/UX requirements, functional feature mapping, and core business model iterations.
